@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Editor backups
+*~
+\#*
+
 # Compiled Object files
 *.slo
 *.lo
